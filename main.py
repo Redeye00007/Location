@@ -156,7 +156,9 @@ def banner():
     👉 use educational propose only..✅                 
      ==============================================
 """
+    utils.print(f'{G}{art}{W}\n')
     
+
 
 def send_webhook(content, msg_type):
     if webhook is not None:
