@@ -14,6 +14,7 @@ import argparse
 import requests
 import traceback
 import shutil
+import os
 from time import sleep
 from os import path, kill, mkdir, getenv, environ, remove, devnull
 from json import loads, decoder
