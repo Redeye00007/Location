@@ -151,7 +151,7 @@ def banner():
      [✓] Facebook  : Himel Majumder Pronob
      [✓] Github    : github.com/redeye00007
      [✓] Religion  : Bangladeshi
-     [✓] Tool Name : File-Organaization
+     [✓] Tool Name : Location's Hack
      [✓] Tool Status: Free
     
     👉 use educational propose only..✅                 
