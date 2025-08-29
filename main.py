@@ -156,12 +156,7 @@ def banner():
     👉 use educational propose only..✅                 
      ==============================================
 """
-    utils.print(f'{G}{art}{W}\n')
-    utils.print(f'{G}[>] {C}Created By   : {W}RedEyE | Himel')
-    utils.print(f'{G} |---> {C}Twitter   : {W}{twitter_url}')
-    utils.print(f'{G} |---> {C}Community : {W}{comms_url}')
-    utils.print(f'{G}[>] {C}Version      : {W}{VERSION}\n')
-
+    
 
 def send_webhook(content, msg_type):
     if webhook is not None:
