@@ -156,6 +156,7 @@ def banner():
     👉 use educational propose only..✅                 
      ==============================================
 """
+    os.system("clear")
     utils.print(f'{G}{art}{W}\n')
     
 
